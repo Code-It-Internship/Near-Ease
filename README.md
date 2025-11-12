@@ -9,5 +9,3 @@ With an intuitive map interface, NearEase lets you:
 4. 🧭 Get navigation directions instantly
     
 Built to make city life simpler, NearEase connects people with essential local services — anytime, anywhere.
-
-Test code
