@@ -9,3 +9,7 @@ With an intuitive map interface, NearEase lets you:
 4. 🧭 Get navigation directions instantly
     
 Built to make city life simpler, NearEase connects people with essential local services — anytime, anywhere.
+
+# Languages, Frameworks & Libraries Details
+- Dart: 3.9.2
+- Flutter: 3.35.7
